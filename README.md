@@ -1,6 +1,6 @@
 # Sort, Find and printArray algorithms
   * Mauricio Pacheco Lizama
-  * Javier Jesús Can
+  * Javier  Can
   * Cesar Orlando
 
 # Algorithm Fundamentals
